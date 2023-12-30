@@ -1,0 +1,13 @@
+{
+  "name": "algorithms",
+  "version": "1.0.0",
+  "repository": "https://github.com/ko22009/algorithms",
+  "author": "Ruslan Kutliakhmetov <kosid2@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "jest": "^29.7.0"
+  },
+  "scripts": {
+    "test": "jest"
+  }
+}
