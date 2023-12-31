@@ -1,5 +1,4 @@
 import { Component } from "./Component";
-import { Leaf } from "./Leaf";
 
 export class Composite implements Component {
   children: Array<Component> = [];

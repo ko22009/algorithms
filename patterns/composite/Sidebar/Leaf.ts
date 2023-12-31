@@ -5,7 +5,7 @@ export class Leaf implements Component {
 
   get(path?: string) {
     return {
-      path: `${path ? path : ''}/${this.path}`
+      path: `${path ? path : ""}/${this.path}`,
     };
   }
 }
